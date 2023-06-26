@@ -6,7 +6,9 @@ Read Me (How to open the project):
 ********************************************************************************************************************************************
 
 Go to project folder.
+
 Type powershell in the address bar.
+
 Now, type env/scripts/activate to activate python scripts and create virtual environment.
 Then, type python manage.py runserver to run the files.
 Now, copy the https link provided in the powershell into a browser of your choice.
